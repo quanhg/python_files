@@ -1,0 +1,18 @@
+首先要做的就是要在熟读下 prd，这里面主要需要挖掘如下信息：
+
+本次 prd 的业务背景是什么？
+这个业务要实现的价值是怎样的？
+这个业务的受益方（或者叫使用者）是谁？
+本次业务都需要与哪些外部部门进行合作，联调方都有哪些？
+本次功能的改造是否涉及了历史功能的改造？即需要明确下改造范围
+本次功能的改造都涉及了哪些测试方向，除了功能、UI、易用性、接口、冒烟、回归，是否还需要数据测试、性能测试？
+笔者认为，最起码应该明确了上面的问题，才算是一次合格的需求分析，它将为您了解整个待测系统的来龙去脉提供强有力的支撑。
+The first thing to do is to familiarize yourself with the prd, which requires the following information:
+
+What is the business context of the prd?
+What is the value to be realized by this business?
+Who are the beneficiaries (or users) of the prd?
+Which external departments do the prd need to cooperate with, and who are the coordinators?
+Does the revamping of this function involve the revamping of historical functions? This means that the scope of the modification needs to be clarified
+What testing directions are involved in the transformation of this function, in addition to functionality, UI, ease of use, interface, smoke, regression, is there a need for data testing, performance testing?
+In my opinion, at least the above issues should be clarified before it is regarded as a qualified requirements analysis, which will provide strong support for you to understand the ins and outs of the whole system to be tested.
