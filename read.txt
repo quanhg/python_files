@@ -14,5 +14,8 @@ What is the value to be realized by this business?
 Who are the beneficiaries (or users) of the prd?
 Which external departments do the prd need to cooperate with, and who are the coordinators?
 Does the revamping of this function involve the revamping of historical functions? This means that the scope of the modification needs to be clarified
-What testing directions are involved in the transformation of this function, in addition to functionality, UI, ease of use, interface, smoke, regression, is there a need for data testing, performance testing?
-In my opinion, at least the above issues should be clarified before it is regarded as a qualified requirements analysis, which will provide strong support for you to understand the ins and outs of the whole system to be tested.
+What testing directions are involved in the transformation of this function, in addition to functionality, UI, ease of use, 
+interface, smoke, regression, is there a need for data testing, performance testing?
+In my opinion, at least the above issues should be clarified before it is regarded as a qualified requirements analysis,
+which will provide strong support for you to understand the ins and outs of the whole system to be tested.
+I AM NOT SURE
